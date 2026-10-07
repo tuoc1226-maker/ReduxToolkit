@@ -1,4 +1,4 @@
-# react redux(redux toolkit)を使ったテンプレート
+# Reach Redux
 
 ## 開発環境
 
@@ -46,8 +46,6 @@ react / redux-tool-kit を使用
 
 react v16.13.1,
 reduxjs/toolkit v1.3.6
-
-![redux-tool-kit](https://user-images.githubusercontent.com/47517709/90846697-ad023980-e3a3-11ea-91cd-d2f6350c95df.png)
 
 ```
 ─── src
@@ -98,9 +96,3 @@ reduxjs/toolkit v1.3.6
                     └── TopList.tsx（そのページでしか使われないreact-componentは同階層に設置）
 ```
 
-### 解説
-
-リポジトリ構成
-https://qiita.com/Sotq_17/items/7c7ab9880597336b3ee5
-
-コンポーネントの使い方等は各コンポーネントの上部に記載
